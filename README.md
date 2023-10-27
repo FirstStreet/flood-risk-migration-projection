@@ -1,2 +1,2 @@
-# Flood_Migration_Publication
+# flood-risk-migration-projection
 Public repo for flood climate migration manuscript
